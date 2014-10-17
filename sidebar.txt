@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tkl:home|Door43 (tkl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tkl|d43-tkl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tkl/archive/master.zip|d43-tkl.zip]]
+
+**Recent Changes**
+{{changes>ns = tkl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tkl|Ethnologue data]]
+
